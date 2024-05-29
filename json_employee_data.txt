@@ -1,0 +1,2 @@
+{"name":"Sazzad Hossain","email":"hossais2@algonquincollege.com","address":"1385 Woodroffe Ave, Ottawa, ON K2G 1V8","salary":240000.0,"numberOfServiceYear":15,"totalCompensation":330000.0,"bonus":90000.0,"pension":2400.0}
+{"name":"Ryan Xu","email":"xu000310@algonquinlive.com","address":"11 MacArthur Dr, Charlottetown, PE C1A 6N2","salary":60000.0,"numberOfServiceYear":2,"totalCompensation":60000.0,"renewalDate":1748554391200}

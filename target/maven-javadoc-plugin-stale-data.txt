@@ -1,0 +1,63 @@
+@options
+@packages
+-classpath
+'C:/Users/ryany/.m2/repository/commons-codec/commons-codec/1.12/commons-codec-1.12.jar;C:/Users/ryany/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.9.8/jackson-databind-2.9.8.jar;C:/Users/ryany/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar;C:/Users/ryany/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.9.8/jackson-core-2.9.8.jar;C:/Users/ryany/.m2/repository/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.6.0/jackson-datatype-jsr310-2.6.0.jar;C:/Users/ryany/.m2/repository/org/jsoup/jsoup/1.11.3/jsoup-1.11.3.jar;C:/Users/ryany/.m2/repository/org/apache/httpcomponents/httpclient/4.5.8/httpclient-4.5.8.jar;C:/Users/ryany/.m2/repository/org/apache/httpcomponents/httpcore/4.4.11/httpcore-4.4.11.jar;C:/Users/ryany/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'D:/Nextcloud/AlgonquinCollege/2024S/CST8288/projects/assignment1S24/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Nextcloud/AlgonquinCollege/2024S/CST8288/projects/assignment1S24/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'SOLID Principles 0.0.1-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'D:/Nextcloud/AlgonquinCollege/2024S/CST8288/projects/assignment1S24/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'SOLID Principles 0.0.1-SNAPSHOT API'
+com.algonquin.cst8288.assignment1.controller
+com.algonquin.cst8288.assignment1.employee
+com.algonquin.cst8288.assignment1.persistence
+C:\Users\ryany\.m2\repository\commons-codec\commons-codec\1.12\commons-codec-1.12.jar = 1716412033494
+C:\Users\ryany\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.9.8\jackson-databind-2.9.8.jar = 1716412034013
+C:\Users\ryany\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.9.0\jackson-annotations-2.9.0.jar = 1716412033621
+C:\Users\ryany\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.9.8\jackson-core-2.9.8.jar = 1716412033757
+C:\Users\ryany\.m2\repository\com\fasterxml\jackson\datatype\jackson-datatype-jsr310\2.6.0\jackson-datatype-jsr310-2.6.0.jar = 1716412033702
+C:\Users\ryany\.m2\repository\org\jsoup\jsoup\1.11.3\jsoup-1.11.3.jar = 1716412033957
+C:\Users\ryany\.m2\repository\org\apache\httpcomponents\httpclient\4.5.8\httpclient-4.5.8.jar = 1716412034092
+C:\Users\ryany\.m2\repository\org\apache\httpcomponents\httpcore\4.4.11\httpcore-4.4.11.jar = 1716412034045
+C:\Users\ryany\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar = 1716412034058
+D:\Nextcloud\AlgonquinCollege\2024S\CST8288\projects\assignment1S24\src\main\java\.DS_Store = 1704632194000
+D:\Nextcloud\AlgonquinCollege\2024S\CST8288\projects\assignment1S24\src\main\java = 1715817279356
+D:\Nextcloud\AlgonquinCollege\2024S\CST8288\projects\assignment1S24\target\site\apidocs\allclasses-index.html = 1716714354440
+D:\Nextcloud\AlgonquinCollege\2024S\CST8288\projects\assignment1S24\target\site\apidocs\allpackages-index.html = 1716714354451
+D:\Nextcloud\AlgonquinCollege\2024S\CST8288\projects\assignment1S24\target\site\apidocs\constant-values.html = 1716714354215
+D:\Nextcloud\AlgonquinCollege\2024S\CST8288\projects\assignment1S24\target\site\apidocs\copy.svg = 1716714354545
+D:\Nextcloud\AlgonquinCollege\2024S\CST8288\projects\assignment1S24\target\site\apidocs\element-list = 1716714354145
+D:\Nextcloud\AlgonquinCollege\2024S\CST8288\projects\assignment1S24\target\site\apidocs\help-doc.html = 1716714354529
+D:\Nextcloud\AlgonquinCollege\2024S\CST8288\projects\assignment1S24\target\site\apidocs\index-all.html = 1716714354486
+D:\Nextcloud\AlgonquinCollege\2024S\CST8288\projects\assignment1S24\target\site\apidocs\index.html = 1716714354412
+D:\Nextcloud\AlgonquinCollege\2024S\CST8288\projects\assignment1S24\target\site\apidocs\link.svg = 1716714354548
+D:\Nextcloud\AlgonquinCollege\2024S\CST8288\projects\assignment1S24\target\site\apidocs\member-search-index.js = 1716714354464
+D:\Nextcloud\AlgonquinCollege\2024S\CST8288\projects\assignment1S24\target\site\apidocs\module-search-index.js = 1716714354460
+D:\Nextcloud\AlgonquinCollege\2024S\CST8288\projects\assignment1S24\target\site\apidocs\overview-summary.html = 1716714354509
+D:\Nextcloud\AlgonquinCollege\2024S\CST8288\projects\assignment1S24\target\site\apidocs\overview-tree.html = 1716714354404
+D:\Nextcloud\AlgonquinCollege\2024S\CST8288\projects\assignment1S24\target\site\apidocs\package-search-index.js = 1716714354461
+D:\Nextcloud\AlgonquinCollege\2024S\CST8288\projects\assignment1S24\target\site\apidocs\script.js = 1716714354543
+D:\Nextcloud\AlgonquinCollege\2024S\CST8288\projects\assignment1S24\target\site\apidocs\search-page.js = 1716714354554
+D:\Nextcloud\AlgonquinCollege\2024S\CST8288\projects\assignment1S24\target\site\apidocs\search.html = 1716714354498
+D:\Nextcloud\AlgonquinCollege\2024S\CST8288\projects\assignment1S24\target\site\apidocs\search.js = 1716714354552
+D:\Nextcloud\AlgonquinCollege\2024S\CST8288\projects\assignment1S24\target\site\apidocs\stylesheet.css = 1716714354541
+D:\Nextcloud\AlgonquinCollege\2024S\CST8288\projects\assignment1S24\target\site\apidocs\tag-search-index.js = 1716714354465
+D:\Nextcloud\AlgonquinCollege\2024S\CST8288\projects\assignment1S24\target\site\apidocs\type-search-index.js = 1716714354463
